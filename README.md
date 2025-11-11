@@ -51,13 +51,11 @@
   <strong>TECHNOLOGY PROGRAMME, SPECIALIZATION IN INFORMATION AND MEDIA TECHNOLOGY</strong> (2500p)
   <br>
   <em>Sven Erikssonsgymnasiet, Borås | August 2020 – June 2023</em>
-  <ul>
-    <li>Recipient of the "Technical Role Model"(Teknisk förebild) scholarship.</li>
-  </ul>
 </p>
 
+---
+<h3 align="center">🏆 Current acievements<br></h3>
 <p align="center">
-  🏆 Current acievements<br>
   <strong>Winner in 2 categories at the Borås Tech Challenge 2025</strong><br>
   (Best Student Contribution & Best Pitch)
   <br>
@@ -66,7 +64,7 @@
   Recipient of the "<strong>Technical Role Model</strong>" scholarship.
 </p>
 
-----
+---
 
 <h3 align="center">💼 Professional Experience</h3>
 

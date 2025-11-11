@@ -54,12 +54,13 @@
 </p>
 
 ---
-<h3 align="center">🏆 Current achievement<br></h3>
+<h3 align="center">🏆 Current achievements<br></h3>
 <p align="center">
   <strong>Winner in 2 categories at the Borås Tech Challenge 2025</strong><br>
   (Best Student Contribution & Best Pitch)
   <br>
   with the game <a href="https://abdriano.itch.io/the-samaritan">"The Samaritan"</a>
+  <br>
   <br>
   Recipient of the "<strong>Technical Role Model</strong>" scholarship.
 </p>

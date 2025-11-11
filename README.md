@@ -54,7 +54,7 @@
 </p>
 
 ---
-<h3 align="center">🏆 Current acievements<br></h3>
+<h3 align="center">🏆 Current achievement<br></h3>
 <p align="center">
   <strong>Winner in 2 categories at the Borås Tech Challenge 2025</strong><br>
   (Best Student Contribution & Best Pitch)

@@ -1,9 +1,7 @@
 <h1 align="center">
-  Salutations! 👋 I am Anton Bäckdahl
+ Hej! 👋 I am Anton Bäckdahl
 </h1>
 <h3 align="center">
-  <i>A versatile Software Architect & Developer known here as @Legendarycentaur</i>
-</h3>
 
 <p align="center">
   I am a passionate developer with a comprehensive command of a diverse technological spectrum. 

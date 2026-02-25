@@ -4,7 +4,7 @@
   <br />
   My expertise ranges from a bit of C and CUDA to full-stack solutions With C# and .Net.
   <br />
-  I am engaged in engineering robust, scalable systems and exploring the front of modern technology.
+  My goal is always to build high-quality scalable systems and exploring the front of modern technology.
   <br />
 </p>
 
@@ -19,6 +19,7 @@
   <br>
   <strong>Full Selection of completed Courses</strong>:
   <ul>
+    <li>Software Development Project</li>
     <li>Applied Machine Learning (AI)</li>
     <li>Data Visualisation</li>
     <li>Parallel and Distributed Programming</li>

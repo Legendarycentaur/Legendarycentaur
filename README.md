@@ -52,20 +52,8 @@
 </p>
 
 ---
-<h3 align="center">🏆 Current achievements<br></h3>
-<p align="center">
-  <strong>Winner in 2 categories at the Borås Tech Challenge 2025</strong><br>
-  (Best Student Contribution & Best Pitch)
-  <br>
-  with the game <a href="https://abdriano.itch.io/the-samaritan">"The Samaritan"</a>
-  <br>
-  <br>
-  Recipient of the "<strong>Technical Role Model</strong>" scholarship.
-</p>
 
----
-
-<h3 align="center">💼 Professional Experience</h3>
+<h3 align="center">Professional Experience</h3>
 
 <p align="left">
   <strong>Programming Tutor</strong><br>
@@ -82,7 +70,7 @@
 
 ---
 
-<h3 align="center">🛠️ My Technological Arsenal</h3>
+<h3 align="center">Experienced Languages</h3>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
@@ -111,11 +99,23 @@
 </p>
 
 ---
+<h3 align="center">Current non work related achievements<br></h3>
+<p align="center">
+  <strong>Winner in 2 categories at the Borås Tech Challenge 2025</strong><br>
+  (Best Student Contribution & Best Pitch)
+  <br>
+  with the game <a href="https://abdriano.itch.io/the-samaritan">"The Samaritan"</a>
+  <br>
+  <br>
+  Recipient of the "<strong>Technical Role Model</strong>" scholarship.
+</p>
+
+---
 
 <h3 align="center">💡 Other Technical Interests</h3>
 
 <p align="center">
-  PC Building | Mobile Phone Repair | Custom-ROMs | Aquascaping
+  Mobile Phone Repair | Custom-ROMs | Aquascaping
 </p>
 
 ---

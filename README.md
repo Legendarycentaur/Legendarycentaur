@@ -1,12 +1,8 @@
-<h1 align="center">
- Hello! I am Anton Bäckdahl
-</h1>
 <h3 align="center">
-
 <p align="center">
   I am a passionate developer with a comprehensive command of a diverse technological spectrum. 
   <br />
-  My expertise ranges from a bit of (C, CUDA) to full-stack solutions With C# and .Net.
+  My expertise ranges from a bit of C and CUDA to full-stack solutions With C# and .Net.
   <br />
   I am engaged in engineering robust, scalable systems and exploring the front of modern technology.
   <br />
@@ -14,7 +10,7 @@
 
 ---
 
-<h3 align="center">🎓 Education & Achievements</h3>
+<h3 align="center">Education & Achievements</h3>
 
 <p align="left">
  <strong>SYSTEMS ARCHITECTURE, SPECIALIZATION IN SOFTWARE DEVELOPMENT</strong> (180 ECTS)
